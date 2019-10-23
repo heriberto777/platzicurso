@@ -13,3 +13,4 @@ Destino: Puerto Plata
 Duracion: 4 Horas
 Sitio Turistico: Teleferico
 Pareja Actual: Elizabeth Guerra
+Tiempo: Toda la vida
