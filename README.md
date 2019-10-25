@@ -1,2 +1,2 @@
 # platzicurso
-# Sistema para Practicar GIT y Github
+Sistema para Practicar GIT y Github
